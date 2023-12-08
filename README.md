@@ -60,5 +60,6 @@
 ## [C06](https://github.com/di-pokemon/piscine/tree/main/C06) - Understanding Argc and Argv
 
 - [ex00: ft_print_program_name](https://github.com/di-pokemon/piscine/tree/main/C06/ex0/ft_print_program_name.c) - Print the Name of a Program
-- [ex01: ft_print_params](https://github.com/di-pokemon/piscine/tree/main/C06/ex1/ft_print_params.c) - Print Parameters of a Program
-- [ex02: ft_rev_params](https://github.com/di-pokemon/piscine/tree/main/C06/ex2/ft_rev_params.c) - Print Parameters of a Program in Reverse
+- [ex01: ft_print_params](https://github.com/di-pokemon/piscine/tree/C06/ex01/ft_print_params.c) - Print Parameters of a Program
+- [ex02: ft_rev_params](https://github.com/di-pokemon/piscine/tree/main/C06/ex02/ft_rev_params.c) - Print Parameters of a Program in Reverse
+- [ex02: ft_sort_params](https://github.com/di-pokemon/piscine/tree/main/C06/ex03/ft_sort_params.c) - Print Parameters of a Program in sorting
